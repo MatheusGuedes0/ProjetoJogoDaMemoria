@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1701910725 source:d:\documentos matheus guedes\documents\matheus guedes\análise e desenvolvimento de sistemas\3° periodo-ads\estrutura de dados ii\exercicios\para_entrega\projetofinaljogo\projetojogodamemoria\funcoeslistaenc.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"funcoesListaEnc.h"
+
+1701910736 d:\documentos matheus guedes\documents\matheus guedes\análise e desenvolvimento de sistemas\3° periodo-ads\estrutura de dados ii\exercicios\para_entrega\projetofinaljogo\projetojogodamemoria\funcoeslistaenc.h
+
+1701911595 source:d:\documentos matheus guedes\documents\matheus guedes\análise e desenvolvimento de sistemas\3° periodo-ads\estrutura de dados ii\exercicios\para_entrega\projetofinaljogo\projetojogodamemoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoesListaEnc.h"
+	<string.h>
+	<time.h>
+	<windows.h>
+
